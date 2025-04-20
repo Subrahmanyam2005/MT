@@ -83,3 +83,7 @@ The goal of this project is to demonstrate **API integration**, **front-end deve
 
 ---
 
+![image](https://github.com/user-attachments/assets/afb80832-2d7e-4d59-a926-a2d85ee69f3e)
+![Screenshot (19)](https://github.com/user-attachments/assets/72928c0a-2a47-440b-b8a5-b5b1bae681c3)
+![Screenshot (20)](https://github.com/user-attachments/assets/27317b2c-021d-4acc-b03d-7e5c7b2cb111)
+![Screenshot (21)](https://github.com/user-attachments/assets/bc36f923-eb8c-4db5-a914-0f0c3a2c1f10)
